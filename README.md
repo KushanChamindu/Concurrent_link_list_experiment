@@ -2,6 +2,7 @@
 
 Implement and test link list in C with concurrent programing.
 
+### API used for multi-threading: Pthreads 
 
 ### Serial linked list 
 Compile: 
